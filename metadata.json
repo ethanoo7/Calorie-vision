@@ -1,0 +1,5 @@
+{
+  "name": "Calorie Vision",
+  "description": "An intelligent web application that analyzes images of food to estimate its calorie and macronutrient content using the power of the Gemini API.",
+  "requestFramePermissions": []
+}
